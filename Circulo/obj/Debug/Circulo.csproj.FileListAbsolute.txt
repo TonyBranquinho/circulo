@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Circulo\Circulo\bin\Debug\Circulo.exe.config
+C:\temp\ws-vs2019\Circulo\Circulo\bin\Debug\Circulo.exe
+C:\temp\ws-vs2019\Circulo\Circulo\bin\Debug\Circulo.pdb
+C:\temp\ws-vs2019\Circulo\Circulo\obj\Debug\Circulo.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Circulo\Circulo\obj\Debug\Circulo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Circulo\Circulo\obj\Debug\Circulo.exe
+C:\temp\ws-vs2019\Circulo\Circulo\obj\Debug\Circulo.pdb
